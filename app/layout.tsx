@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   description:
     "EmpowerEd - Revolutionizing financial education for youth with digital wallets and curated learning courses.",
   keywords: "digital wallet, youth finance, financial literacy, edtech, learning courses, savings platform",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({
