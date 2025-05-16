@@ -29,7 +29,7 @@ export default function HeroSection() {
           </div>
           <div className="md:w-1/2 flex justify-center">
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/1_img.jpg?height=600&width=800"
               alt="Digital wallet and education app interface"
               width={800}
               height={600}
