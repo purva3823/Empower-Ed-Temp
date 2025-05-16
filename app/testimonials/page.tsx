@@ -15,7 +15,7 @@ export default function Testimonials() {
         "The milestone rewards motivated me to save consistently, and I used my voucher to take a coding course that helped me land an internship.",
       name: "Michael Chen",
       role: "Student, Age 17",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/2_img.jpg?height=48&width=48",
     },
     {
       quote:
