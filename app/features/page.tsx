@@ -102,7 +102,7 @@ export default function Features() {
                 progress.
               </p>
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/3_img.jpg?height=400&width=600"
                 alt="Parental dashboard interface"
                 width={600}
                 height={400}
@@ -117,7 +117,7 @@ export default function Features() {
                 paths.
               </p>
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/4_img.jpg?height=400&width=600"
                 alt="Learning platform integration"
                 width={600}
                 height={400}
