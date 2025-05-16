@@ -174,7 +174,7 @@ export default function Features() {
               </div>
               <div className="order-first md:order-last mb-8 md:mb-0">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/5_img.jpg?height=400&width=600"
                   alt="Digital wallet features"
                   width={600}
                   height={400}
