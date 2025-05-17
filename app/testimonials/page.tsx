@@ -8,42 +8,42 @@ export default function Testimonials() {
         "My daughter has learned more about money management in 3 months with EmpowerEd than I could teach her in years!",
       name: "Sarah Johnson",
       role: "Parent",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/8_img.jpg?height=48&width=48",
     },
     {
       quote:
         "The milestone rewards motivated me to save consistently, and I used my voucher to take a coding course that helped me land an internship.",
       name: "Michael Chen",
       role: "Student, Age 17",
-      image: "/2_img.jpg?height=48&width=48",
+      image: "/7_img.jpg?height=48&width=48",
     },
     {
       quote:
         "As an educator, I appreciate how EmpowerEd makes financial literacy accessible and engaging for young people.",
       name: "Dr. Angela Martinez",
       role: "High School Teacher",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/8_img.jpg?height=48&width=48",
     },
     {
       quote:
         "The group savings feature helped our school club raise funds for a specialized course that we all wanted to take together.",
       name: "Jason Williams",
       role: "Student, Age 16",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/7_img.jpg?height=48&width=48",
     },
     {
       quote:
         "I can finally track my son's spending and help guide his financial decisions without micromanaging. The parental controls are excellent.",
       name: "Robert Patel",
       role: "Parent",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/7_img.jpg?height=48&width=48",
     },
     {
       quote:
         "The financial literacy games made learning about money fun for the first time. I actually look forward to completing the modules!",
       name: "Emma Rodriguez",
       role: "Student, Age 15",
-      image: "/placeholder.svg?height=48&width=48",
+      image: "/8_img.jpg?height=48&width=48",
     },
   ]
 
@@ -54,7 +54,7 @@ export default function Testimonials() {
         "After using EmpowerEd for 8 months, I developed consistent saving habits and completed several financial literacy courses. The skills I learned helped me write a compelling scholarship essay, and I was awarded a $5,000 scholarship for college.",
       name: "Sophia Lee",
       role: "Student, Age 18",
-      image: "/placeholder.svg?height=80&width=80",
+      image: "/8_img.jpg?height=80&width=80",
     },
     {
       title: "Building a Tech Career",
@@ -62,7 +62,7 @@ export default function Testimonials() {
         "I used my EmpowerEd savings to purchase coding courses that weren't available at my school. After completing them, I built a portfolio that helped me secure a paid internship at a local tech company during my senior year of high school.",
       name: "David Garcia",
       role: "Student, Age 17",
-      image: "/placeholder.svg?height=80&width=80",
+      image: "/7_img.jpg?height=80&width=80",
     },
   ]
 
