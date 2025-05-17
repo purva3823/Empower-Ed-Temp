@@ -189,7 +189,7 @@ export default function Features() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="mb-8 md:mb-0">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/6_img.jpg?height=400&width=600"
                   alt="Course marketplace"
                   width={600}
                   height={400}
